@@ -29,7 +29,7 @@ I/O-bound:
     A I/O-bound process is a process, that spends the majority of its time using I/O-components 
     Example: Clicking stuff on a website
   
-The scheduler needs to know if a process is I/O- or CPU-bound because most I/O-bound processes wait for input. If you would give the I/O bound processes a high quanta the response time of those processes would be to high. 
+The scheduler needs to know if a process is I/O- or CPU-bound because most I/O-bound processes wait for input. If you would give the I/O bound processes a high quanta the response time of other processes would be to high. 
 
 ---
 #### 4
