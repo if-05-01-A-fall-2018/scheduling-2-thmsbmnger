@@ -2,10 +2,12 @@
 
 #### 1.
 The process will be swapped five times.
+
 | Run | 1st run | 2nd run | 3rd run | 4th run | 5th run |
 |:---:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  Q  |    1    |    2    |    4    |    8    |    15   |
 | Acc |    1    |    3    |    7    |    15   |    30   |
+
 ---
 #### 2.
 With the assumption that the processes A and B have the same initial estimate:
